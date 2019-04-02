@@ -1,2 +1,4 @@
 # hello-world
-Just  another  repository
+Hi friends!
+I'm a university graduate.
+I hope to become a nice programmer.
